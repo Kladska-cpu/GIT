@@ -1,8 +1,5 @@
 ## Olá, seja bem-vinda(o) ao meu Github!
 
-<p align="center">
-  <img src="https://github.com/Kladska-cpu/GIT/blob/master/blogging.svg?raw=true" width="350" title="hover text">
-</p>
 
 Nada.
 
